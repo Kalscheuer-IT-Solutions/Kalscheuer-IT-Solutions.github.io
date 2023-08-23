@@ -3,7 +3,12 @@
 
 name: Node.js CI
 
-on: workflow_dispatch
+on: 
+ workflow_dispatch:
+    inputs:
+      branch:
+        description: 'The branch to build'
+        required: true
 
 jobs:
   build:
