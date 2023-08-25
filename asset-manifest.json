@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9055885.css",
+    "main.js": "/static/js/main.d0947ddb.js",
+    "static/js/787.ac5259e8.chunk.js": "/static/js/787.ac5259e8.chunk.js",
+    "static/media/Logo Kalscheuer IT-Solutions.png": "/static/media/Logo Kalscheuer IT-Solutions.1e77c2bb6e2e6c60ecb2.png",
+    "index.html": "/index.html",
+    "main.a9055885.css.map": "/static/css/main.a9055885.css.map",
+    "main.d0947ddb.js.map": "/static/js/main.d0947ddb.js.map",
+    "787.ac5259e8.chunk.js.map": "/static/js/787.ac5259e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9055885.css",
+    "static/js/main.d0947ddb.js"
+  ]
+}
